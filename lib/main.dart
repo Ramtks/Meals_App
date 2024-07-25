@@ -105,7 +105,7 @@ class _MyAppState extends State<MyApp> {
               titleTextStyle: ThemeData.light()
                   .textTheme
                   .copyWith(
-                      headline6: const TextStyle(
+                      headlineLarge: const TextStyle(
                           fontFamily: 'Raleway',
                           fontSize: 20,
                           fontWeight: FontWeight.w500))
